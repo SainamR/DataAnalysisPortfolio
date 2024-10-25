@@ -19,6 +19,8 @@ Hello! My name is Sainam
 ## Portfolio Projects
 
 ## Education
+University of Washington - Seattle Campus: Bachelor of Arts in Mathematics with a minor in Applied Mathematics, Sept 2022 - June 2024
+Seattle Central College: Associate of Business, Sept 2020 - June 2022
 
 ## Certificates
 
